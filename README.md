@@ -1,4 +1,4 @@
-# APDC
+# Audio Processing for Detector Characterization
 The following is a list of Real-Time audio processing Libraries which can be used:
 
 1) Aubio : C based collection of libraries, implementing algorithms for pitch detection, beat detection, onset detection, silence detection, etc.
